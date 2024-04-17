@@ -1,5 +1,4 @@
-# Airplane_Crashes
-
+# Airplane Crashes Data analysis 
 
 There are two folders *Dash* and *jupyer* containing codes for the Dash app visualization and data analysis respectively. 
 
