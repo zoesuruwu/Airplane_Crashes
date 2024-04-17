@@ -5,4 +5,4 @@ There are two folders *Dash* and *jupyer* containing codes for the Dash app visu
 
 Additionally, there is a slide deck for presentation purpose.
 
-[slide deck](Airplane Crashes analysis.pdf)
+[[slide deck](Airplane Crashes analysis.pdf)](https://github.com/zoesuruwu/Airplane_Crashes/blob/master/Airplane%20Crashes%20analysis.pdf)
